@@ -1,0 +1,9 @@
+model,target,acc_mean,acc_std,auc_mean,auc_std,f1_mean
+Logistic Regression,switch,0.6771,0.0183,0.7355,0.0143,0.3676
+SVM (lineal),switch,0.6781,0.0267,0.7314,0.0115,0.3747
+Random Forest,switch,0.7289,0.0305,0.7449,0.0123,0.367
+Gradient Boosting,switch,0.8406,0.0274,0.7371,0.0134,0.1319
+Logistic Regression,deci,0.7839,0.0151,0.8609,0.0101,0.7992
+SVM (lineal),deci,0.7629,0.0235,0.852,0.015,0.7853
+Random Forest,deci,0.8111,0.0111,0.8852,0.0107,0.8264
+Gradient Boosting,deci,0.8035,0.0089,0.8789,0.0125,0.8232
