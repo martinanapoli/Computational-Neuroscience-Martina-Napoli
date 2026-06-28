@@ -14,6 +14,18 @@ Overall, these findings suggest that perceptual confirmation bias stabilizes pre
 
 ---
 
+## TFG Reports
+
+This repository includes the TFG documentation in the `REPORTS/` folder:
+
+- **Initial Report V1** → first initial submission to my supervisor
+- **Initial Report V2** → revised version after supervisor feedback and incorporation of comments
+- **Progress Report V1** → first progress submission
+- **Progress Report V2** → revised version after supervisor feedback and incorporation of comments
+- **Final Report** → complete final project report 
+
+---
+
 ## Dataset
 
 * `CJ_EEG.csv` → raw dataset: 6600 rows x 36 columns.
@@ -41,6 +53,13 @@ Overall, these findings suggest that perceptual confirmation bias stabilizes pre
 
 ```text
 Computational Neuroscience Martina Napoli/
+|
+|-- REPORTS/
+|   |-- Initial_Report_V1.pdf
+|   |-- Initial_Report_V2.pdf
+|   |-- Progress_Report_V1.pdf
+|   |-- Progress_Report_V2.pdf
+|   |-- Final_Report.pdf
 |
 |-- DATA/
 |   |-- CJ_EEG.csv
@@ -147,3 +166,17 @@ Install the additional HSSM dependencies with:
 ```bash
 pip install hssm==0.2.6 pymc arviz blackjax
 ```
+
+
+## Contact
+
+**Author:** Martina Napoli Crespo  
+**Email:** martinanapoli012@gmail.com  
+**Supervisor:** Alexis Perez Bellido (Basic Psychology Department, UAB)  
+**Academic Year:** 2025/26
+
+
+
+
+
+
